@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessOcrFieldResults", "ProcessOcrFieldResults.csproj", "{BDFBFCE1-2F55-4B35-9FA3-2033B94F7532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFBFCE1-2F55-4B35-9FA3-2033B94F7532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFBFCE1-2F55-4B35-9FA3-2033B94F7532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFBFCE1-2F55-4B35-9FA3-2033B94F7532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFBFCE1-2F55-4B35-9FA3-2033B94F7532}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB306088-AC43-4A0D-87C1-642B4450007A}
+	EndGlobalSection
+EndGlobal
